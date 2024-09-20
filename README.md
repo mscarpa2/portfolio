@@ -74,5 +74,5 @@ I am a Senior Consultant in Technology Consulting with a focus on **Microsoft Dy
   - Calculus – Math for AI, Data Science & Machine Learning
 
 ## Contact
-Reach out via email at[scarpa.matteo96@gmail.com] (mailto:scarpa.matteo96@gmail.com)
+Reach out via email at [scarpa.matteo96@gmail.com](mailto:scarpa.matteo96@gmail.com)
 
