@@ -1,7 +1,5 @@
 # Matteo Scarpa
 
-**Senior Consultant | Microsoft Dynamics CRM Specialist**
-
 ## About Me
 I am a Senior Consultant in Technology Consulting with a focus on **Microsoft Dynamics CRM**. I have extensive experience leading and training teams, delivering tailored CRM solutions, and enhancing customer relationships for multinational clients. My career is grounded in providing innovative, data-driven solutions that drive business outcomes. Currently, I am pursuing a **Master of Science in Business Analytics (MSBA)** at the University of Illinois at Urbana-Champaign, where I continue to expand my analytical and technical skills.
 
